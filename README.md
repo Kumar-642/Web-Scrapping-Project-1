@@ -2,7 +2,7 @@
    The data you need for doing this project can be accessed at the below link:
              https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00006.htm
 
-## Find the answer for:
+# Find the answer for:
    How many Senators have their names starting with W? 
       Q1: What is the votes ratio of Democrats' major decision to Republicans' major decision? 
       Q2: How many states had at least 1 senator not voted? 
